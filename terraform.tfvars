@@ -1,0 +1,5 @@
+region          = "us-east-1"
+bucket_name     = "mymarketbuck1"
+environment     = "dev"
+versioning_status = "Enabled"
+sse_algorithm   = "AES256"
